@@ -1,0 +1,487 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet" />
+  <title>Refr</title>
+  <style>
+    * {
+      font-family: 'Roboto', sans-serif;
+    }
+
+    p {
+      font-family: 'Roboto', sans-serif;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- <span class="preheader"
+    style="color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0;">This
+    is preheader text. Some clients will show this text as a preview.</span> -->
+  <table role="presentation" border="0" cellpadding="0" width="700" align="center" cellspacing="0" class="body"
+    style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+    <tr>
+      <!-- <td style=" font-size: 14px; vertical-align: top;" valign="top">&nbsp;</td> -->
+      <td width="580" valign="top">
+        <div>
+          <!-- START CENTERED WHITE CONTAINER -->
+          <table role="presentation" border="0" cellpadding="0" width="700" align="center" cellspacing="0">
+            <!-- START MAIN CONTENT AREA -->
+            <tr>
+              <td class="wrapper" style=" font-size: 18px; vertical-align: top; box-sizing: border-box; padding: 30px;"
+                valign="top">
+                <table role="presentation" border="0" cellpadding="0" cellspacing="0"
+                  style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;"
+                  width="100%">
+                  <tr>
+                    <td style=" font-size: 14px; vertical-align: top;" valign="top">
+                      <img src="https://i.ibb.co/DfvBw43/Group-11162.png" alt="Refr-logo" border="0">
+                      <p
+                        style=" font-size: 28px; line-height: 24px; font-weight: normal; margin-top: 15px;font-weight: 600;text-align: center;margin-top: 60px;">
+                        Make your Brand - People Powered
+                      </p>
+                      <p
+                        style="font-style: normal;font-weight: 400;font-size: 24px;line-height: 26px; line-height: 24px;margin-top: 15px;text-align: center;">
+                        <b>We are India’s First Interactive Social Commerce Marketplace</b>
+                      </p>
+                      <p
+                        style="font-size: 20px; font-weight: normal; margin: 0; margin-bottom: 16px;text-align: center;margin-top: 24px;line-height: 26px;">
+                        Refr let's you leverage your customer’s network to get instant brand reach and boost sales. This
+                        happens via genuine recommendations that are sent out by your customers post a purchase across
+                        chat or social (with an embedded link to your store on our marketplace), this helps you turn
+                        your customers into high lead generating magnets.
+                      </p>
+                      <p
+                        style="text-align:center; font-size: 24px; font-weight: 600; margin: 0; margin-bottom: 5px;margin-top: 50px;">
+                        When you use our platform, 3 things happen -</p>
+                      <table class="main" width="100%">
+                        <tr>
+                          <td>
+                            <ul style="list-style: none;margin-top:0px;padding: 0;">
+                              <li style="padding: 5px 0;
+                          font-style: normal;font-weight: 400;
+                                          font-size: 22px;
+                                          line-height: 30px;
+                                          color: #000000;
+                                          text-align: center;"><img
+                                  src="https://firebasestorage.googleapis.com/v0/b/refr/o/pics%2FGroup%208674.png?alt=media&token=1e5336c4-3673-476b-ab52-af3314445fd8"
+                                  alt="">
+                                <span style="padding-left:5px ;">You create increased <b>trust</b> in your
+                                  products.</span>
+                              </li>
+                              <li style="padding: 5px 0;
+                          font-style: normal;font-weight: 400;
+                                          font-size: 22px;
+                                          line-height: 30px;
+                                          color: #000000;
+                                          text-align: center;"><img
+                                  src="https://firebasestorage.googleapis.com/v0/b/refr/o/pics%2FGroup%208680.png?alt=media&token=2d09003e-99e6-484c-afd8-64892a1f72e4"
+                                  alt="">
+                                <span style="padding-left:5px ;">Instant <b>brand reach</b> leading to increased
+                                  discovery.</span>
+                              </li>
+                              <li style="padding: 5px 0;
+                          font-style: normal;font-weight: 400;
+                                          font-size: 22px;
+                                          line-height: 30px;
+                                          color: #000000;
+                                          text-align: center;"><img src="https://i.ibb.co/3NT6xd8/image-1709.png"
+                                  alt="" style="width: 14px;">
+                                <span style="padding-left:5px ;">Higher <b>conversions</b> and sale volumes.</span>
+                              </li>
+                            </ul>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td style="text-align: center; font-size: 20px;font-weight: normal;">
+                            <p
+                              style="width: 600px; margin-left: 50px;margin-right: 50px; margin-top: 40px; margin-bottom: 30px;">
+                              <b>Our end-to-end solution helps you connect with your dream audience and experience
+                                unparalleled ROI</b>
+                            </p>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <div class="section">
+                              <p
+                                style=" font-size: 26px; font-weight: normal; margin-top: 15px;font-weight: 600;text-align: center;margin-top: 60px;">
+                                Welcome Home
+                              </p>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <div class="welcome-home">
+                              <div class="dash-home">
+                                <img class="dash-home" width="700px" height="auto"
+                                  src="https://i.ibb.co/MgV5m1N/banner-dashboard.png" alt="">
+                              </div>
+                              <p style="font-style: normal;
+                              font-weight: 600;
+                              font-size: 16px;
+                              line-height: 23px;
+                              color: #000000;
+                              margin-bottom: 45px;
+                              text-align: center;width: 500px; margin-left: 100px;margin-right: 100px;">Turn any
+                                surface on your store/product into an opportunity to make
+                                your brand go viral</p>
+
+                              <p style="
+                          font-style: normal;font-weight: 600;
+                                              font-size: 28px;
+                                              line-height: 29px;
+                                              color: #000000;text-align: center; margin-top: 30px;">
+                                <b>Key Features :-</b>
+                              </p>
+                              <table style="width: 100%;" cellpadding="0" cellspacing="0">
+                                <tr style="background-color:#FDFDFD;">
+                                  <td
+                                    style="padding: 20px 0 20px 20px; border: 1px solid #B7B7B7; border-right-color: #FDFDFD; border-radius: 5px 0px 0px 5px;">
+                                    <img width="20" height="-webkit-fill-available" style="max-width:100%;"
+                                      src="https://firebasestorage.googleapis.com/v0/b/refr/o/pics%2FGroup%208673.png?alt=media&token=a93b372c-310e-40ac-8624-bd2ba1a4950c"
+                                      alt="">
+                                  </td>
+                                  <td
+                                    style="padding: 20px;border: 1px solid #B7B7B7; border-left-color: #FDFDFD; border-radius: 0px 5px 5px 0px; font-size: 20px;">
+                                    Amplify brand reach instantly and send advocacy requests all in real-time
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="padding: 10px;"></td>
+                                </tr>
+
+                                <tr style="background-color:#FDFDFD;">
+                                  <td
+                                    style="padding: 20px 0 20px 20px; border: 1px solid #B7B7B7; border-right-color: #FDFDFD; border-radius: 5px 0px 0px 5px;">
+                                    <img width="20" height="-webkit-fill-available" style="max-width:100%;"
+                                      src="https://firebasestorage.googleapis.com/v0/b/refr/o/pics%2FGroup%208673.png?alt=media&token=a93b372c-310e-40ac-8624-bd2ba1a4950c"
+                                      alt="">
+                                  </td>
+                                  <td
+                                    style="padding: 20px;border: 1px solid #B7B7B7; border-left-color: #FDFDFD; border-radius: 0px 5px 5px 0px; font-size: 20px;">
+                                    Merchant CRM and phone app providing complete control of campaign management, user
+                                    information, and order management
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="padding: 10px;"></td>
+                                </tr>
+
+                                <tr style="background-color:#FDFDFD;">
+                                  <td
+                                    style="padding: 20px 0 20px 20px; border: 1px solid #B7B7B7; border-right-color: #FDFDFD; border-radius: 5px 0px 0px 5px;">
+                                    <img width="20" height="-webkit-fill-available" style="max-width:100%;"
+                                      src="https://firebasestorage.googleapis.com/v0/b/refr/o/pics%2FGroup%208673.png?alt=media&token=a93b372c-310e-40ac-8624-bd2ba1a4950c"
+                                      alt="">
+                                  </td>
+                                  <td
+                                    style="padding: 20px;border: 1px solid #B7B7B7; border-left-color: #FDFDFD; border-radius: 0px 5px 5px 0px; font-size: 20px;">
+                                    Customers engage with your brand store on the Refr Marketplace
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="padding: 10px;"></td>
+                                </tr>
+
+                                <tr style="background-color:#FDFDFD;">
+                                  <td
+                                    style="padding: 20px 0 20px 20px; border: 1px solid #B7B7B7; border-right-color: #FDFDFD; border-radius: 5px 0px 0px 5px;">
+                                    <img width="20" height="-webkit-fill-available" style="max-width:100%;"
+                                      src="https://firebasestorage.googleapis.com/v0/b/refr/o/pics%2FGroup%208673.png?alt=media&token=a93b372c-310e-40ac-8624-bd2ba1a4950c"
+                                      alt="">
+                                  </td>
+                                  <td
+                                    style="padding: 20px;border: 1px solid #B7B7B7; border-left-color: #FDFDFD; border-radius: 0px 5px 5px 0px; font-size: 20px;">
+                                    Boost sales, grow order value, drive repeat sales via power of people
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="padding: 10px;"></td>
+                                </tr>
+
+                                <tr style="background-color:#FDFDFD;">
+                                  <td
+                                    style="padding: 20px 0 20px 20px; border: 1px solid #B7B7B7; border-right-color: #FDFDFD; border-radius: 5px 0px 0px 5px;">
+                                    <img width="20" height="-webkit-fill-available" style="max-width:100%;"
+                                      src="https://firebasestorage.googleapis.com/v0/b/refr/o/pics%2FGroup%208673.png?alt=media&token=a93b372c-310e-40ac-8624-bd2ba1a4950c"
+                                      alt="">
+                                  </td>
+                                  <td
+                                    style=" padding: 20px;border: 1px solid #B7B7B7; border-left-color: #FDFDFD; border-radius: 0px 5px 5px 0px; font-size: 20px;">
+                                    <b>No commission on sales</b>
+                                  </td>
+                                </tr>
+
+
+                              </table>
+                              <p style="
+                          font-style: normal;font-weight: 600;
+                                              font-size: 24px;
+                                              line-height: 23px;
+                                              color: #000000;text-align: center;margin-top: 60px;">
+                                <span style="padding-right: 5px;">BURN SECTION</span> <img
+                                  src="https://firebasestorage.googleapis.com/v0/b/refr/o/pics%2FGroup%208675.png?alt=media&token=5d33f8a4-9a8a-4c22-b4f2-f36442cc9a37"
+                                  alt="">
+                              </p>
+                              <p
+                                style="font-size: 20px; line-height: 24px;text-align: center; width: 500;margin-left: 100px;margin-right: 100px;">
+                                We could also collaborate with you to be part of our BURN section on the Refr SuperApp,
+                                where our users can spend their collected app cash on specially curated deals. The
+                                brands featured in the burn section get increased visibility with customers leading to
+                                higher sale volumes.
+                              </p>
+
+
+                              <p style="
+                          font-style: normal;font-weight: 600;
+                                              font-size: 24px;
+                                              line-height: 23px;
+                                              color: #000000;text-align: center;margin-top: 50px;">
+                                <span style="padding-right: 10px;">How it works</span>
+                              </p>
+                              <p
+                                style="font-size: 20px; line-height: 22px;text-align: center;  width: 500;margin-left: 100px;margin-right: 100px;">
+                                We feature your products in our Burn section
+                              </p>
+                              <p
+                                style="font-size: 20px; line-height: 22px;text-align: center;  width: 500;margin-left: 100px;margin-right: 100px;">
+                                The products on this page can be redeemed via RefrCash or by paying a mix of RefrCash
+                                and other payment methods
+                              </p>
+                              <p
+                                style="font-size: 20px; line-height: 22px;text-align: center;  width: 500;margin-left: 100px;margin-right: 100px;">
+                                A commission is charged on the total order value for any sale that goes through the Refr
+                                BURN section of the app
+                              </p>
+                              <p
+                                style="font-size: 20px; line-height: 22px;text-align: center;  width: 500;margin-left: 100px;margin-right: 100px;color:#910CEE">
+                                <b>Free Listing</b>
+                              </p>
+                              <table role="presentation" align="center" width="700" border="0" cellpadding="0"
+                                cellspacing="0">
+                                <tbody>
+                                  <tr>
+                                    <td align="center">
+                                      <p style="font-size: 28px;line-height: 29px;color: #000000;margin-top: 70px;">
+                                        <b>Trusted by 500+ Brands</b>
+                                      </p>
+                                    </td>
+                                  </tr>
+
+
+                                </tbody>
+                                <table role="presentation" align="center" width="700" border="0" cellpadding="0"
+                                  cellspacing="0">
+
+                                  <tr>
+                                    <td>
+                                      <table style="  margin-bottom: 20px;" role="presentation" align="center"
+                                        width="600" border="0" cellpadding="0" cellspacing="0">
+
+                                        <tr id="stuff">
+                                        <tr>
+                                          <td>
+                                            <img src="https://i.ibb.co/pdm7ZmB/Dent-Heal-Logo.png" alt="Dent-Heal-Logo"
+                                              border="0">
+                                          </td>
+                                          <td>
+                                            <img src="https://i.ibb.co/MD17yHb/yuvan.png" alt="yuvan" border="0">
+                                          </td>
+                                          <td>
+                                            <img src="https://i.ibb.co/yRwtYdz/Seefah-Logo-2.png"
+                                              alt="Seefah-Logo-2-removebg-preview-2" border="0">
+                                          </td>
+                                          <td>
+                                            <img src="https://i.ibb.co/wRNpPjX/Four-Fountains-Spa-1.png"
+                                              alt="Four-Fountains-Spa-1" border="0">
+                                          </td>
+                                          <td>
+                                            <img src="https://i.ibb.co/0fLrvvW/Deciwood-Logo.png" alt="Deciwood-Logo"
+                                              border="0">
+                                          </td>
+                                        </tr>
+                                  </tr>
+                                </table>
+
+                          </td>
+                        </tr>
+
+                        <table role="presentation" width="700" border="0" align="center" cellpadding="0" cellspacing="0"
+                          style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                          <tr>
+                            <td>
+                              <table role="presentation" width="700" border="0" align="center" cellpadding="0"
+                                cellspacing="0"
+                                style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                <tbody>
+                                  <tr id="stuff">
+                                  <tr>
+                                    <td>
+                                      <table role="presentation" width="500" border="0" align="center" cellpadding="0"
+                                        cellspacing="0"
+                                        style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tbody>
+                                          <tr id="stuff">
+                                          <tr>
+                                            <td>
+                                              <img src="https://i.ibb.co/z6RwHC2/Urban-Tribe-Logo.png"
+                                                alt="Urban-Tribe-Logo" border="0">
+                                            </td>
+                                            <td>
+                                              <img src="https://i.ibb.co/NWJHT1g/The-Ecosttatva-Logo.png"
+                                                alt="The-Ecosttatva-Logo" border="0">
+                                            </td>
+                                            <td>
+                                              <img src="https://i.ibb.co/ZHjQ88w/green-loom-2-e1619969646861.png"
+                                                alt="green-loom-2-e1619969646861" border="0">
+                                            </td>
+                                            <td>
+                                              <img src="https://i.ibb.co/w7ps18X/Otrix-1200-x-327-200x.png"
+                                                alt="Otrix-1200-x-327-200x" border="0">
+                                            </td>
+                                          </tr>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                  </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </table>
+  </table>
+  </table>
+
+
+  <table role="presentation" width="700" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center">
+        <p style="font-weight: 600;
+font-size: 28px;
+line-height: 29px;
+color: #000000;margin: 20px 0 0 0;margin-top: 70px;"><b>What we stand for</b></p>
+      </td>
+    </tr>
+    <table role="presentation" width="450" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td align="center">
+          <p style="margin-top:20px; width: 600px; margin-left:50px;margin-right:50px;font-size: 20px;">We believe commerce is and always
+            will be built on
+            community, a more connected experience is what
+            we
+            thrive for!</p>
+        </td>
+      </tr>
+    </table>
+
+    <table role="presentation" width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td>
+          <p style="font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 29px;
+color: #000000;text-align: center;margin-top: 60px;">
+            <b>Let’s connect and discuss this innovative journey for your brand :)</b>
+          </p>
+        </td>
+      </tr>
+    </table>
+    <table style="width: 100%;" role="presentation" width="300" border="0" align="center" cellpadding="0"
+      cellspacing="0">
+      <tr>
+        <td align="center">
+          <a style="text-decoration: none;" href="https://refr.club/business"><button
+              style="background: #8111E8;
+border-radius: 4px;border:none;outline:none;padding:12px;width: 250px; color:#FFFFFF;font-size: 18px;">Explore</button></a>
+        </td>
+      </tr>
+    </table>
+    <table cellspacing="0" cellpadding="0" width="700" align="center">
+      <tr>
+        <td align="center">
+          <p style="font-style: normal;
+                            font-weight: 400;
+                            font-size: 22px;
+                            color: #393939;
+                            text-align: center;
+                            margin:30px 0 8% 0;
+                            ">If you have any questions, drop us an email at <br> <b><a href="mailto:info@refr.club" style="text-decoration: none;">info@refr.club</a></b> or call on
+            <b><a href="tel:9082952135" style="text-decoration: none;">9082952135</a></b></p>
+        </td>
+      </tr>
+    </table>
+
+    <table cellspacing="0" cellpadding="0" width="700" align="center">
+      <tr>
+        <td align="center">
+          <div>
+            <img src="https://i.ibb.co/w7JLnBs/Group-11139.png" alt="Refr-logo" border="0">
+
+            <p style="font-style: normal;font-weight: 400;font-size: 20px;text-align: center;color: #393939;margin: 0 0 20px 0;
+                        ">Refr1 Tech Private Limited, Mumbai, India</p>
+            <a href="https://refr.club/business" style="font-style: normal;
+                        font-weight: 400;
+                        font-size: 24px;
+                        text-decoration-line: underline;
+                        color: #000000;">refr.club/business</a>
+          </div>
+        </td>
+      </tr>
+    </table>
+
+    <table cellspacing="0" cellpadding="0" width="700" align="center">
+      <tr>
+        <td align="center" style="padding: 5% 48px;">
+
+          <a href="https://twitter.com/Refr_Official" target="_blank" style="padding-left: 10px;text-decoration: none;">
+            <img width="40px" src="https://i.ibb.co/km1f58G/Group-8731.png" alt="twitter-logo" border="0">
+          </a>
+          <a href="https://www.instagram.com/refr.india/" target="_blank"
+            style="padding-left: 10px;text-decoration: none;">
+
+            <img width="40px" src="https://i.ibb.co/mFYv9qp/Group-8732.png" alt="insta-logo" border="0">
+
+          </a>
+          <a href="https://www.linkedin.com/company/refr-club/mycompany/" target="_blank"
+            style="padding-left: 10px;text-decoration: none;">
+            <img width="40px" src="https://i.ibb.co/myWmxjZ/Group-11107.png" alt="linkedin-logo" border="0">
+
+          </a>
+
+        <td>
+      </tr>
+    </table>
+  </table>
+  </table>
+  </td>
+  </tr>
+  </table>
+  </td>
+  </tr>
+
+  <!-- END MAIN CONTENT AREA -->
+  </table>
+  <!-- END CENTERED WHITE CONTAINER -->
+
+  <!-- START FOOTER -->
+
+  <!-- END FOOTER -->
+
+  </div>
+  </td>
+  <!-- <td style=" font-size: 14px; vertical-align: top;" valign="top">&nbsp;</td> -->
+  </tr>
+  </table>
+</body>
+
+</html>
